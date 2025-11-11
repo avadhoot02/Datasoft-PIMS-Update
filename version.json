@@ -1,0 +1,10 @@
+{
+  "PIMS": {
+    "version": "1.0.1.0",
+    "url": "https://raw.githubusercontent.com/yourname/datasoft-pims-updates/main/Datasoft-PIMS.exe"
+  },
+  "SystemDLL": {
+    "version": "1.0.0.24",
+    "url": "https://raw.githubusercontent.com/yourname/datasoft-pims-updates/main/System.dll"
+  }
+}
