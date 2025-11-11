@@ -3,7 +3,7 @@
     "version": "1.0.1.0",
     "url": "https://raw.githubusercontent.com/avadhoot02/Datasoft-PIMS-Update/main/Datasoft-PIMS.exe"
   },
-  "SystemDLL": {
+  "SystemsDLL": {
     "version": "1.0.0.24",
     "url": "https://raw.githubusercontent.com/avadhoot02/Datasoft-PIMS-Update/main/Systems.dll"
   }
